@@ -6,12 +6,20 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "index-photos": "tsx scripts/index-photos.ts",
+    "build-data": "tsx scripts/build-data.ts"
   },
   "dependencies": {
+    "@types/jszip": "^3.4.0",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.42.2",
+    "fuse.js": "^7.4.2",
+    "jszip": "^3.10.1",
     "next": "16.2.10",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "sharp": "^0.35.3"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
@@ -21,6 +29,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.10",
     "tailwindcss": "^4",
+    "tsx": "^4.22.5",
     "typescript": "^5"
   }
 }

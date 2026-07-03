@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "lamentation",
+    "title": "Lamentation",
+    "company": "Terpsichore Collective",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Friday Professional Showcase · 7:30 PM",
+    "day": "friday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Martha Graham",
+      "Joyce Herring",
+      "Peter Sparling"
+    ],
+    "dancers": [
+      "Aimee McDonald"
+    ],
+    "music": [
+      "Zoltan Kodaly"
+    ],
+    "costumes": [
+      "Martha Graham"
+    ],
+    "program_note": "A personification of grief from Martha Graham repertory, restaged for this performance.",
+    "folder_name": "Lamentation",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/lamentation/001.jpg",
+      "/photos/lamentation/002.jpg",
+      "/photos/lamentation/003.jpg",
+      "/photos/lamentation/004.jpg",
+      "/photos/lamentation/005.jpg",
+      "/photos/lamentation/006.jpg",
+      "/photos/lamentation/007.jpg",
+      "/photos/lamentation/008.jpg",
+      "/photos/lamentation/009.jpg",
+      "/photos/lamentation/010.jpg",
+      "/photos/lamentation/011.jpg",
+      "/photos/lamentation/012.jpg",
+      "/photos/lamentation/013.jpg",
+      "/photos/lamentation/014.jpg",
+      "/photos/lamentation/015.jpg",
+      "/photos/lamentation/016.jpg",
+      "/photos/lamentation/017.jpg",
+      "/photos/lamentation/018.jpg"
+    ]
+  },
+  {
+    "id": "nobody01100011",
+    "title": "Nobody 01100011",
+    "company": "CPR Dance: Inhale Movement",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Friday Professional Showcase · 7:30 PM",
+    "day": "friday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Carolyn Pampalone Rabbers"
+    ],
+    "dancers": [
+      "Grace Minard",
+      "Chloe Kibler",
+      "Ally Miller",
+      "Mackenzie Kalinowski",
+      "Emma Armijo"
+    ],
+    "music": [
+      "Dox",
+      "Soundbed",
+      "Axon Terminal",
+      "needs review"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A duet/ensemble inquiry into mediated connection and identity, developed with AI-assisted creative tools.",
+    "folder_name": "Nobody01100011",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/nobody01100011/001.jpg",
+      "/photos/nobody01100011/002.jpg",
+      "/photos/nobody01100011/003.jpg",
+      "/photos/nobody01100011/004.jpg",
+      "/photos/nobody01100011/005.jpg",
+      "/photos/nobody01100011/006.jpg",
+      "/photos/nobody01100011/007.jpg",
+      "/photos/nobody01100011/008.jpg",
+      "/photos/nobody01100011/009.jpg",
+      "/photos/nobody01100011/010.jpg",
+      "/photos/nobody01100011/011.jpg",
+      "/photos/nobody01100011/012.jpg",
+      "/photos/nobody01100011/013.jpg",
+      "/photos/nobody01100011/014.jpg",
+      "/photos/nobody01100011/015.jpg",
+      "/photos/nobody01100011/016.jpg",
+      "/photos/nobody01100011/017.jpg",
+      "/photos/nobody01100011/018.jpg",
+      "/photos/nobody01100011/019.jpg",
+      "/photos/nobody01100011/020.jpg",
+      "/photos/nobody01100011/021.jpg",
+      "/photos/nobody01100011/022.jpg",
+      "/photos/nobody01100011/023.jpg",
+      "/photos/nobody01100011/024.jpg",
+      "/photos/nobody01100011/025.jpg",
+      "/photos/nobody01100011/026.jpg",
+      "/photos/nobody01100011/027.jpg",
+      "/photos/nobody01100011/028.jpg",
+      "/photos/nobody01100011/029.jpg",
+      "/photos/nobody01100011/030.jpg",
+      "/photos/nobody01100011/031.jpg",
+      "/photos/nobody01100011/032.jpg",
+      "/photos/nobody01100011/033.jpg",
+      "/photos/nobody01100011/034.jpg",
+      "/photos/nobody01100011/035.jpg",
+      "/photos/nobody01100011/036.jpg",
+      "/photos/nobody01100011/037.jpg",
+      "/photos/nobody01100011/038.jpg",
+      "/photos/nobody01100011/039.jpg",
+      "/photos/nobody01100011/040.jpg",
+      "/photos/nobody01100011/041.jpg",
+      "/photos/nobody01100011/042.jpg",
+      "/photos/nobody01100011/043.jpg",
+      "/photos/nobody01100011/044.jpg",
+      "/photos/nobody01100011/045.jpg",
+      "/photos/nobody01100011/046.jpg",
+      "/photos/nobody01100011/047.jpg",
+      "/photos/nobody01100011/048.jpg",
+      "/photos/nobody01100011/049.jpg",
+      "/photos/nobody01100011/050.jpg",
+      "/photos/nobody01100011/051.jpg",
+      "/photos/nobody01100011/052.jpg",
+      "/photos/nobody01100011/053.jpg",
+      "/photos/nobody01100011/054.jpg",
+      "/photos/nobody01100011/055.jpg",
+      "/photos/nobody01100011/056.jpg",
+      "/photos/nobody01100011/057.jpg",
+      "/photos/nobody01100011/058.jpg",
+      "/photos/nobody01100011/059.jpg",
+      "/photos/nobody01100011/060.jpg",
+      "/photos/nobody01100011/061.jpg",
+      "/photos/nobody01100011/062.jpg",
+      "/photos/nobody01100011/063.jpg",
+      "/photos/nobody01100011/064.jpg",
+      "/photos/nobody01100011/065.jpg",
+      "/photos/nobody01100011/066.jpg",
+      "/photos/nobody01100011/067.jpg",
+      "/photos/nobody01100011/068.jpg",
+      "/photos/nobody01100011/069.jpg",
+      "/photos/nobody01100011/070.jpg",
+      "/photos/nobody01100011/071.jpg",
+      "/photos/nobody01100011/072.jpg"
+    ]
+  },
+  {
+    "id": "tabletalk",
+    "title": "Table Talk",
+    "company": "Cultivate Dance",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Friday Professional Showcase · 7:30 PM",
+    "day": "friday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Leah Anthony"
+    ],
+    "dancers": [
+      "Melissa Hinchman",
+      "Clancee Synco"
+    ],
+    "music": [
+      "Guillaume Ferran",
+      "Peter Nanasi",
+      "Pawel Gorniak"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A duet shaped by conversational gesture and negotiated proximity.",
+    "folder_name": "TableTalk",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/tabletalk/001.jpg",
+      "/photos/tabletalk/002.jpg",
+      "/photos/tabletalk/003.jpg",
+      "/photos/tabletalk/004.jpg",
+      "/photos/tabletalk/005.jpg",
+      "/photos/tabletalk/006.jpg",
+      "/photos/tabletalk/007.jpg",
+      "/photos/tabletalk/008.jpg",
+      "/photos/tabletalk/009.jpg",
+      "/photos/tabletalk/010.jpg",
+      "/photos/tabletalk/011.jpg",
+      "/photos/tabletalk/012.jpg",
+      "/photos/tabletalk/013.jpg",
+      "/photos/tabletalk/014.jpg",
+      "/photos/tabletalk/015.jpg",
+      "/photos/tabletalk/016.jpg",
+      "/photos/tabletalk/017.jpg",
+      "/photos/tabletalk/018.jpg",
+      "/photos/tabletalk/019.jpg",
+      "/photos/tabletalk/020.jpg",
+      "/photos/tabletalk/021.jpg",
+      "/photos/tabletalk/022.jpg",
+      "/photos/tabletalk/023.jpg",
+      "/photos/tabletalk/024.jpg",
+      "/photos/tabletalk/025.jpg",
+      "/photos/tabletalk/026.jpg",
+      "/photos/tabletalk/027.jpg",
+      "/photos/tabletalk/028.jpg",
+      "/photos/tabletalk/029.jpg",
+      "/photos/tabletalk/030.jpg",
+      "/photos/tabletalk/031.jpg",
+      "/photos/tabletalk/032.jpg",
+      "/photos/tabletalk/033.jpg",
+      "/photos/tabletalk/034.jpg"
+    ]
+  },
+  {
+    "id": "espinita",
+    "title": "Espinita",
+    "company": "Ballet Legato",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Friday Professional Showcase · 7:30 PM",
+    "day": "friday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Jennifer Muselin"
+    ],
+    "dancers": [
+      "Katarina Flores",
+      "Maggie Hollingsworth",
+      "Gabrielle Muselin",
+      "Isabella Muselin",
+      "Anneliese Welsh"
+    ],
+    "music": [
+      "Banda Ionica"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "\"For my granddaughter, Juliette.\"",
+    "folder_name": "Espinita",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/espinita/001.jpg",
+      "/photos/espinita/002.jpg",
+      "/photos/espinita/003.jpg",
+      "/photos/espinita/004.jpg",
+      "/photos/espinita/005.jpg",
+      "/photos/espinita/006.jpg",
+      "/photos/espinita/007.jpg",
+      "/photos/espinita/008.jpg",
+      "/photos/espinita/009.jpg",
+      "/photos/espinita/010.jpg",
+      "/photos/espinita/011.jpg",
+      "/photos/espinita/012.jpg",
+      "/photos/espinita/013.jpg",
+      "/photos/espinita/014.jpg",
+      "/photos/espinita/015.jpg",
+      "/photos/espinita/016.jpg",
+      "/photos/espinita/017.jpg",
+      "/photos/espinita/018.jpg",
+      "/photos/espinita/019.jpg",
+      "/photos/espinita/020.jpg",
+      "/photos/espinita/021.jpg",
+      "/photos/espinita/022.jpg",
+      "/photos/espinita/023.jpg",
+      "/photos/espinita/024.jpg",
+      "/photos/espinita/025.jpg",
+      "/photos/espinita/026.jpg",
+      "/photos/espinita/027.jpg",
+      "/photos/espinita/028.jpg",
+      "/photos/espinita/029.jpg",
+      "/photos/espinita/030.jpg",
+      "/photos/espinita/031.jpg",
+      "/photos/espinita/032.jpg"
+    ]
+  },
+  {
+    "id": "femaletrouble",
+    "title": "Female Trouble",
+    "company": "Terpsichore Collective",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Friday Professional Showcase · 7:30 PM",
+    "day": "friday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Aimee McDonald"
+    ],
+    "dancers": [
+      "Amy Cadwallader",
+      "Lydia Di Iorio-Rhoton",
+      "Carly Liegel"
+    ],
+    "music": [
+      "Bodhran performance by Sen Gavin",
+      "Prayer for the Dying by Lisa Hannigan",
+      "Sound editing by Aimee McDonald"
+    ],
+    "costumes": [
+      "Aimee McDonald"
+    ],
+    "program_note": "A work addressing mental illness, child loss, and suicide. Audience support note includes stepping out option and 988 crisis line.",
+    "folder_name": "FemaleTrouble",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/femaletrouble/001.jpg",
+      "/photos/femaletrouble/002.jpg",
+      "/photos/femaletrouble/003.jpg",
+      "/photos/femaletrouble/004.jpg",
+      "/photos/femaletrouble/005.jpg",
+      "/photos/femaletrouble/006.jpg",
+      "/photos/femaletrouble/007.jpg",
+      "/photos/femaletrouble/008.jpg",
+      "/photos/femaletrouble/009.jpg",
+      "/photos/femaletrouble/010.jpg",
+      "/photos/femaletrouble/011.jpg",
+      "/photos/femaletrouble/012.jpg",
+      "/photos/femaletrouble/013.jpg",
+      "/photos/femaletrouble/014.jpg",
+      "/photos/femaletrouble/015.jpg",
+      "/photos/femaletrouble/016.jpg",
+      "/photos/femaletrouble/017.jpg",
+      "/photos/femaletrouble/018.jpg",
+      "/photos/femaletrouble/019.jpg",
+      "/photos/femaletrouble/020.jpg",
+      "/photos/femaletrouble/021.jpg",
+      "/photos/femaletrouble/022.jpg",
+      "/photos/femaletrouble/023.jpg",
+      "/photos/femaletrouble/024.jpg",
+      "/photos/femaletrouble/025.jpg",
+      "/photos/femaletrouble/026.jpg",
+      "/photos/femaletrouble/027.jpg",
+      "/photos/femaletrouble/028.jpg",
+      "/photos/femaletrouble/029.jpg",
+      "/photos/femaletrouble/030.jpg",
+      "/photos/femaletrouble/031.jpg",
+      "/photos/femaletrouble/032.jpg",
+      "/photos/femaletrouble/033.jpg",
+      "/photos/femaletrouble/034.jpg",
+      "/photos/femaletrouble/035.jpg",
+      "/photos/femaletrouble/036.jpg",
+      "/photos/femaletrouble/037.jpg",
+      "/photos/femaletrouble/038.jpg",
+      "/photos/femaletrouble/039.jpg",
+      "/photos/femaletrouble/040.jpg",
+      "/photos/femaletrouble/041.jpg",
+      "/photos/femaletrouble/042.jpg",
+      "/photos/femaletrouble/043.jpg",
+      "/photos/femaletrouble/044.jpg",
+      "/photos/femaletrouble/045.jpg",
+      "/photos/femaletrouble/046.jpg",
+      "/photos/femaletrouble/047.jpg",
+      "/photos/femaletrouble/048.jpg",
+      "/photos/femaletrouble/049.jpg",
+      "/photos/femaletrouble/050.jpg",
+      "/photos/femaletrouble/051.jpg",
+      "/photos/femaletrouble/052.jpg",
+      "/photos/femaletrouble/053.jpg",
+      "/photos/femaletrouble/054.jpg",
+      "/photos/femaletrouble/055.jpg",
+      "/photos/femaletrouble/056.jpg",
+      "/photos/femaletrouble/057.jpg",
+      "/photos/femaletrouble/058.jpg",
+      "/photos/femaletrouble/059.jpg",
+      "/photos/femaletrouble/060.jpg",
+      "/photos/femaletrouble/061.jpg",
+      "/photos/femaletrouble/062.jpg",
+      "/photos/femaletrouble/063.jpg",
+      "/photos/femaletrouble/064.jpg",
+      "/photos/femaletrouble/065.jpg",
+      "/photos/femaletrouble/066.jpg",
+      "/photos/femaletrouble/067.jpg"
+    ]
+  },
+  {
+    "id": "typewriterlesson",
+    "title": "Typewriter Lesson",
+    "company": "Terpsichore Collective",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Friday Professional Showcase · 7:30 PM",
+    "day": "friday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Khristian Moffett"
+    ],
+    "dancers": [
+      "Autumn Gardner",
+      "Annika Winters"
+    ],
+    "music": [
+      "Cornelius"
+    ],
+    "costumes": [
+      "Khristian Moffett",
+      "Emma Scholl"
+    ],
+    "program_note": "This piece explores forced control through the metaphor of a typewriter lesson.",
+    "folder_name": "Typewritter Lesson",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/typewriterlesson/001.jpg",
+      "/photos/typewriterlesson/002.jpg",
+      "/photos/typewriterlesson/003.jpg",
+      "/photos/typewriterlesson/004.jpg",
+      "/photos/typewriterlesson/005.jpg",
+      "/photos/typewriterlesson/006.jpg",
+      "/photos/typewriterlesson/007.jpg",
+      "/photos/typewriterlesson/008.jpg",
+      "/photos/typewriterlesson/009.jpg",
+      "/photos/typewriterlesson/010.jpg",
+      "/photos/typewriterlesson/011.jpg",
+      "/photos/typewriterlesson/012.jpg",
+      "/photos/typewriterlesson/013.jpg",
+      "/photos/typewriterlesson/014.jpg",
+      "/photos/typewriterlesson/015.jpg",
+      "/photos/typewriterlesson/016.jpg",
+      "/photos/typewriterlesson/017.jpg",
+      "/photos/typewriterlesson/018.jpg",
+      "/photos/typewriterlesson/019.jpg",
+      "/photos/typewriterlesson/020.jpg",
+      "/photos/typewriterlesson/021.jpg",
+      "/photos/typewriterlesson/022.jpg",
+      "/photos/typewriterlesson/023.jpg",
+      "/photos/typewriterlesson/024.jpg",
+      "/photos/typewriterlesson/025.jpg",
+      "/photos/typewriterlesson/026.jpg",
+      "/photos/typewriterlesson/027.jpg",
+      "/photos/typewriterlesson/028.jpg",
+      "/photos/typewriterlesson/029.jpg",
+      "/photos/typewriterlesson/030.jpg",
+      "/photos/typewriterlesson/031.jpg",
+      "/photos/typewriterlesson/032.jpg",
+      "/photos/typewriterlesson/033.jpg",
+      "/photos/typewriterlesson/034.jpg",
+      "/photos/typewriterlesson/035.jpg",
+      "/photos/typewriterlesson/036.jpg",
+      "/photos/typewriterlesson/037.jpg",
+      "/photos/typewriterlesson/038.jpg",
+      "/photos/typewriterlesson/039.jpg",
+      "/photos/typewriterlesson/040.jpg",
+      "/photos/typewriterlesson/041.jpg",
+      "/photos/typewriterlesson/042.jpg",
+      "/photos/typewriterlesson/043.jpg",
+      "/photos/typewriterlesson/044.jpg",
+      "/photos/typewriterlesson/045.jpg",
+      "/photos/typewriterlesson/046.jpg",
+      "/photos/typewriterlesson/047.jpg",
+      "/photos/typewriterlesson/048.jpg"
+    ]
+  },
+  {
+    "id": "disparateinseparable",
+    "title": "disparate + inseparable",
+    "company": "Project SK+A",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Seyong Kim",
+      "Wonsuk Cho"
+    ],
+    "dancers": [
+      "Charlotte Anderson",
+      "Lauren Matz",
+      "Keira McDonald",
+      "Brandon Wolfington"
+    ],
+    "music": [
+      "Vedro con mio diletto (Antonio Vivaldi)"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "Presented in the Saturday choreography showing and discussion block.",
+    "folder_name": "disparate + inseparable",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/disparateinseparable/001.jpg",
+      "/photos/disparateinseparable/002.jpg",
+      "/photos/disparateinseparable/003.jpg",
+      "/photos/disparateinseparable/004.jpg",
+      "/photos/disparateinseparable/005.jpg",
+      "/photos/disparateinseparable/006.jpg",
+      "/photos/disparateinseparable/007.jpg",
+      "/photos/disparateinseparable/008.jpg",
+      "/photos/disparateinseparable/009.jpg",
+      "/photos/disparateinseparable/010.jpg",
+      "/photos/disparateinseparable/011.jpg",
+      "/photos/disparateinseparable/012.jpg",
+      "/photos/disparateinseparable/013.jpg",
+      "/photos/disparateinseparable/014.jpg",
+      "/photos/disparateinseparable/015.jpg",
+      "/photos/disparateinseparable/016.jpg",
+      "/photos/disparateinseparable/017.jpg",
+      "/photos/disparateinseparable/018.jpg",
+      "/photos/disparateinseparable/019.jpg",
+      "/photos/disparateinseparable/020.jpg",
+      "/photos/disparateinseparable/021.jpg",
+      "/photos/disparateinseparable/022.jpg",
+      "/photos/disparateinseparable/023.jpg",
+      "/photos/disparateinseparable/024.jpg",
+      "/photos/disparateinseparable/025.jpg",
+      "/photos/disparateinseparable/026.jpg",
+      "/photos/disparateinseparable/027.jpg",
+      "/photos/disparateinseparable/028.jpg",
+      "/photos/disparateinseparable/029.jpg",
+      "/photos/disparateinseparable/030.jpg",
+      "/photos/disparateinseparable/031.jpg",
+      "/photos/disparateinseparable/032.jpg",
+      "/photos/disparateinseparable/033.jpg",
+      "/photos/disparateinseparable/034.jpg",
+      "/photos/disparateinseparable/035.jpg",
+      "/photos/disparateinseparable/036.jpg",
+      "/photos/disparateinseparable/037.jpg",
+      "/photos/disparateinseparable/038.jpg",
+      "/photos/disparateinseparable/039.jpg",
+      "/photos/disparateinseparable/040.jpg",
+      "/photos/disparateinseparable/041.jpg",
+      "/photos/disparateinseparable/042.jpg",
+      "/photos/disparateinseparable/043.jpg",
+      "/photos/disparateinseparable/044.jpg",
+      "/photos/disparateinseparable/045.jpg",
+      "/photos/disparateinseparable/046.jpg",
+      "/photos/disparateinseparable/047.jpg",
+      "/photos/disparateinseparable/048.jpg",
+      "/photos/disparateinseparable/049.jpg",
+      "/photos/disparateinseparable/050.jpg",
+      "/photos/disparateinseparable/051.jpg",
+      "/photos/disparateinseparable/052.jpg",
+      "/photos/disparateinseparable/053.jpg",
+      "/photos/disparateinseparable/054.jpg",
+      "/photos/disparateinseparable/055.jpg",
+      "/photos/disparateinseparable/056.jpg",
+      "/photos/disparateinseparable/057.jpg",
+      "/photos/disparateinseparable/058.jpg",
+      "/photos/disparateinseparable/059.jpg",
+      "/photos/disparateinseparable/060.jpg",
+      "/photos/disparateinseparable/061.jpg",
+      "/photos/disparateinseparable/062.jpg",
+      "/photos/disparateinseparable/063.jpg",
+      "/photos/disparateinseparable/064.jpg",
+      "/photos/disparateinseparable/065.jpg",
+      "/photos/disparateinseparable/066.jpg",
+      "/photos/disparateinseparable/067.jpg"
+    ]
+  },
+  {
+    "id": "reflectionsofher",
+    "title": "Reflections of Her",
+    "company": "ConteXture Dance Detroit",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Tracy Halloran"
+    ],
+    "dancers": [
+      "Meghan Cloutier",
+      "Katelyn Mahaffey",
+      "Savanna McFadden",
+      "Kylie Moore",
+      "Jocee Snyder",
+      "Megan Stuart"
+    ],
+    "music": [
+      "Lo-Fang"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "An ensemble reflection on identity and memory.",
+    "folder_name": "Reflections of Her",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/reflectionsofher/001.jpg",
+      "/photos/reflectionsofher/002.jpg",
+      "/photos/reflectionsofher/003.jpg",
+      "/photos/reflectionsofher/004.jpg",
+      "/photos/reflectionsofher/005.jpg",
+      "/photos/reflectionsofher/006.jpg",
+      "/photos/reflectionsofher/007.jpg",
+      "/photos/reflectionsofher/008.jpg",
+      "/photos/reflectionsofher/009.jpg",
+      "/photos/reflectionsofher/010.jpg",
+      "/photos/reflectionsofher/011.jpg",
+      "/photos/reflectionsofher/012.jpg",
+      "/photos/reflectionsofher/013.jpg",
+      "/photos/reflectionsofher/014.jpg",
+      "/photos/reflectionsofher/015.jpg",
+      "/photos/reflectionsofher/016.jpg",
+      "/photos/reflectionsofher/017.jpg",
+      "/photos/reflectionsofher/018.jpg",
+      "/photos/reflectionsofher/019.jpg",
+      "/photos/reflectionsofher/020.jpg",
+      "/photos/reflectionsofher/021.jpg",
+      "/photos/reflectionsofher/022.jpg",
+      "/photos/reflectionsofher/023.jpg",
+      "/photos/reflectionsofher/024.jpg",
+      "/photos/reflectionsofher/025.jpg",
+      "/photos/reflectionsofher/026.jpg",
+      "/photos/reflectionsofher/027.jpg",
+      "/photos/reflectionsofher/028.jpg",
+      "/photos/reflectionsofher/029.jpg",
+      "/photos/reflectionsofher/030.jpg",
+      "/photos/reflectionsofher/031.jpg",
+      "/photos/reflectionsofher/032.jpg",
+      "/photos/reflectionsofher/033.jpg",
+      "/photos/reflectionsofher/034.jpg",
+      "/photos/reflectionsofher/035.jpg",
+      "/photos/reflectionsofher/036.jpg",
+      "/photos/reflectionsofher/037.jpg",
+      "/photos/reflectionsofher/038.jpg",
+      "/photos/reflectionsofher/039.jpg",
+      "/photos/reflectionsofher/040.jpg",
+      "/photos/reflectionsofher/041.jpg",
+      "/photos/reflectionsofher/042.jpg",
+      "/photos/reflectionsofher/043.jpg",
+      "/photos/reflectionsofher/044.jpg",
+      "/photos/reflectionsofher/045.jpg",
+      "/photos/reflectionsofher/046.jpg",
+      "/photos/reflectionsofher/047.jpg",
+      "/photos/reflectionsofher/048.jpg",
+      "/photos/reflectionsofher/049.jpg",
+      "/photos/reflectionsofher/050.jpg",
+      "/photos/reflectionsofher/051.jpg",
+      "/photos/reflectionsofher/052.jpg",
+      "/photos/reflectionsofher/053.jpg",
+      "/photos/reflectionsofher/054.jpg",
+      "/photos/reflectionsofher/055.jpg",
+      "/photos/reflectionsofher/056.jpg",
+      "/photos/reflectionsofher/057.jpg",
+      "/photos/reflectionsofher/058.jpg",
+      "/photos/reflectionsofher/059.jpg",
+      "/photos/reflectionsofher/060.jpg",
+      "/photos/reflectionsofher/061.jpg",
+      "/photos/reflectionsofher/062.jpg",
+      "/photos/reflectionsofher/063.jpg",
+      "/photos/reflectionsofher/064.jpg",
+      "/photos/reflectionsofher/065.jpg",
+      "/photos/reflectionsofher/066.jpg",
+      "/photos/reflectionsofher/067.jpg",
+      "/photos/reflectionsofher/068.jpg",
+      "/photos/reflectionsofher/069.jpg"
+    ]
+  },
+  {
+    "id": "trashed",
+    "title": "Trashed",
+    "company": "Winifred Haun & Dancers",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Winifred Haun"
+    ],
+    "dancers": [
+      "Julia Schaeffer",
+      "Sasha Yakovenko"
+    ],
+    "music": [
+      "Leon Bridges"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "Program listed as an excerpt.",
+    "folder_name": "Trashed",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/trashed/001.jpg",
+      "/photos/trashed/002.jpg",
+      "/photos/trashed/003.jpg",
+      "/photos/trashed/004.jpg",
+      "/photos/trashed/005.jpg",
+      "/photos/trashed/006.jpg",
+      "/photos/trashed/007.jpg",
+      "/photos/trashed/008.jpg",
+      "/photos/trashed/009.jpg",
+      "/photos/trashed/010.jpg",
+      "/photos/trashed/011.jpg",
+      "/photos/trashed/012.jpg",
+      "/photos/trashed/013.jpg",
+      "/photos/trashed/014.jpg",
+      "/photos/trashed/015.jpg",
+      "/photos/trashed/016.jpg",
+      "/photos/trashed/017.jpg",
+      "/photos/trashed/018.jpg",
+      "/photos/trashed/019.jpg",
+      "/photos/trashed/020.jpg",
+      "/photos/trashed/021.jpg",
+      "/photos/trashed/022.jpg",
+      "/photos/trashed/023.jpg",
+      "/photos/trashed/024.jpg",
+      "/photos/trashed/025.jpg",
+      "/photos/trashed/026.jpg",
+      "/photos/trashed/027.jpg",
+      "/photos/trashed/028.jpg",
+      "/photos/trashed/029.jpg",
+      "/photos/trashed/030.jpg",
+      "/photos/trashed/031.jpg",
+      "/photos/trashed/032.jpg",
+      "/photos/trashed/033.jpg",
+      "/photos/trashed/034.jpg",
+      "/photos/trashed/035.jpg"
+    ]
+  },
+  {
+    "id": "control",
+    "title": "Control",
+    "company": "HBY Ensemble",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Susan Clayton",
+      "Cindy Hung"
+    ],
+    "dancers": [
+      "Cindy Hung"
+    ],
+    "music": [
+      "The Feeling Begins by Peter Gabriel"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A reflection on agency, autonomy, and reclaiming one's own voice.",
+    "folder_name": "Control",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/control/001.jpg",
+      "/photos/control/002.jpg",
+      "/photos/control/003.jpg",
+      "/photos/control/004.jpg",
+      "/photos/control/005.jpg",
+      "/photos/control/006.jpg",
+      "/photos/control/007.jpg",
+      "/photos/control/008.jpg",
+      "/photos/control/009.jpg",
+      "/photos/control/010.jpg",
+      "/photos/control/011.jpg",
+      "/photos/control/012.jpg",
+      "/photos/control/013.jpg",
+      "/photos/control/014.jpg",
+      "/photos/control/015.jpg",
+      "/photos/control/016.jpg",
+      "/photos/control/017.jpg",
+      "/photos/control/018.jpg",
+      "/photos/control/019.jpg",
+      "/photos/control/020.jpg",
+      "/photos/control/021.jpg",
+      "/photos/control/022.jpg",
+      "/photos/control/023.jpg",
+      "/photos/control/024.jpg",
+      "/photos/control/025.jpg",
+      "/photos/control/026.jpg",
+      "/photos/control/027.jpg"
+    ]
+  },
+  {
+    "id": "heighho",
+    "title": "Heigh Ho",
+    "company": "Dance Uprising",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Amy Cadwallader"
+    ],
+    "dancers": [
+      "Nicole Heikkila-Popkin",
+      "Carter Hinton-Ayodele",
+      "Mackenzie Kalinowski"
+    ],
+    "music": [
+      "Original composition by Julian Stockton"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A trio driven by rhythmic propulsion and contemporary attack.",
+    "folder_name": "HeighHo",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/heighho/001.jpg",
+      "/photos/heighho/002.jpg",
+      "/photos/heighho/003.jpg",
+      "/photos/heighho/004.jpg",
+      "/photos/heighho/005.jpg",
+      "/photos/heighho/006.jpg",
+      "/photos/heighho/007.jpg",
+      "/photos/heighho/008.jpg",
+      "/photos/heighho/009.jpg",
+      "/photos/heighho/010.jpg",
+      "/photos/heighho/011.jpg",
+      "/photos/heighho/012.jpg",
+      "/photos/heighho/013.jpg",
+      "/photos/heighho/014.jpg",
+      "/photos/heighho/015.jpg",
+      "/photos/heighho/016.jpg",
+      "/photos/heighho/017.jpg",
+      "/photos/heighho/018.jpg",
+      "/photos/heighho/019.jpg",
+      "/photos/heighho/020.jpg",
+      "/photos/heighho/021.jpg",
+      "/photos/heighho/022.jpg",
+      "/photos/heighho/023.jpg",
+      "/photos/heighho/024.jpg",
+      "/photos/heighho/025.jpg",
+      "/photos/heighho/026.jpg",
+      "/photos/heighho/027.jpg",
+      "/photos/heighho/028.jpg",
+      "/photos/heighho/029.jpg",
+      "/photos/heighho/030.jpg",
+      "/photos/heighho/031.jpg",
+      "/photos/heighho/032.jpg",
+      "/photos/heighho/033.jpg",
+      "/photos/heighho/034.jpg",
+      "/photos/heighho/035.jpg",
+      "/photos/heighho/036.jpg",
+      "/photos/heighho/037.jpg",
+      "/photos/heighho/038.jpg",
+      "/photos/heighho/039.jpg",
+      "/photos/heighho/040.jpg",
+      "/photos/heighho/041.jpg",
+      "/photos/heighho/042.jpg",
+      "/photos/heighho/043.jpg"
+    ]
+  },
+  {
+    "id": "fallintome",
+    "title": "Fall Into Me",
+    "company": "Eleanor Dance Devotion",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Eleanor Raygorodsky"
+    ],
+    "dancers": [
+      "Eleanor Raygorodsky"
+    ],
+    "music": [
+      "Alev Lenz"
+    ],
+    "costumes": [
+      "Eleanor Raygorodsky"
+    ],
+    "program_note": "\"Power is perspective.\"",
+    "folder_name": "FallIntoMe",
+    "photo_status": "complete",
+    "photos": [
+      "/photos/fallintome/001.jpg",
+      "/photos/fallintome/002.jpg",
+      "/photos/fallintome/003.jpg",
+      "/photos/fallintome/004.jpg",
+      "/photos/fallintome/005.jpg",
+      "/photos/fallintome/006.jpg",
+      "/photos/fallintome/007.jpg",
+      "/photos/fallintome/008.jpg",
+      "/photos/fallintome/009.jpg",
+      "/photos/fallintome/010.jpg",
+      "/photos/fallintome/011.jpg",
+      "/photos/fallintome/012.jpg",
+      "/photos/fallintome/013.jpg",
+      "/photos/fallintome/014.jpg",
+      "/photos/fallintome/015.jpg",
+      "/photos/fallintome/016.jpg",
+      "/photos/fallintome/017.jpg",
+      "/photos/fallintome/018.jpg",
+      "/photos/fallintome/019.jpg",
+      "/photos/fallintome/020.jpg",
+      "/photos/fallintome/021.jpg",
+      "/photos/fallintome/022.jpg",
+      "/photos/fallintome/023.jpg",
+      "/photos/fallintome/024.jpg",
+      "/photos/fallintome/025.jpg",
+      "/photos/fallintome/026.jpg",
+      "/photos/fallintome/027.jpg",
+      "/photos/fallintome/028.jpg",
+      "/photos/fallintome/029.jpg",
+      "/photos/fallintome/030.jpg",
+      "/photos/fallintome/031.jpg",
+      "/photos/fallintome/032.jpg",
+      "/photos/fallintome/033.jpg",
+      "/photos/fallintome/034.jpg",
+      "/photos/fallintome/035.jpg",
+      "/photos/fallintome/036.jpg",
+      "/photos/fallintome/037.jpg",
+      "/photos/fallintome/038.jpg",
+      "/photos/fallintome/039.jpg",
+      "/photos/fallintome/040.jpg",
+      "/photos/fallintome/041.jpg",
+      "/photos/fallintome/042.jpg",
+      "/photos/fallintome/043.jpg",
+      "/photos/fallintome/044.jpg",
+      "/photos/fallintome/045.jpg",
+      "/photos/fallintome/046.jpg",
+      "/photos/fallintome/047.jpg",
+      "/photos/fallintome/048.jpg",
+      "/photos/fallintome/049.jpg",
+      "/photos/fallintome/050.jpg",
+      "/photos/fallintome/051.jpg",
+      "/photos/fallintome/052.jpg",
+      "/photos/fallintome/053.jpg",
+      "/photos/fallintome/054.jpg",
+      "/photos/fallintome/055.jpg",
+      "/photos/fallintome/056.jpg",
+      "/photos/fallintome/057.jpg",
+      "/photos/fallintome/058.jpg"
+    ]
+  },
+  {
+    "id": "infinitelove",
+    "title": "Infinite Love",
+    "company": "Breakin' Ballet",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Joy Morris-Burton",
+      "Aerick Burton"
+    ],
+    "dancers": [
+      "Joy Morris-Burton",
+      "Aerick Burton"
+    ],
+    "music": [
+      "Violin cover of Ghost by Justin Bieber"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A duet about love that transcends distance, mortality, and time.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "songbird",
+    "title": "Songbird",
+    "company": "Vrishali Parab",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Vrishali Parab"
+    ],
+    "dancers": [
+      "Vrishali Parab"
+    ],
+    "music": [
+      "Ye Banks and Braes",
+      "Phule Phule",
+      "Naba Robi Kiron",
+      "Song Thrush field recording",
+      "Asian Koel field recording"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A braided response to Scottish and Bangla poetry on love and loss.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "coverofme",
+    "title": "Cover of Me",
+    "company": "Diversiform",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Victoria Poirier"
+    ],
+    "dancers": [
+      "Bianca Eckert",
+      "Kathryn Morley",
+      "Victoria Poirier",
+      "Serena Wacker",
+      "Ashley Zardus"
+    ],
+    "music": [
+      "SUGR?"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "An ensemble work shaped by emotional vulnerability and layered relationships.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "skeptic",
+    "title": "Skeptic",
+    "company": "McKenzie Beaverson",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "McKenzie Beaverson"
+    ],
+    "dancers": [
+      "McKenzie Beaverson"
+    ],
+    "music": [
+      "stoicism by slowly",
+      "The Winter by Balmorhea",
+      "Crave by For King and Country"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A solo about hope and the impulse to protect oneself from disappointment.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "rage",
+    "title": "Rage",
+    "company": "Threshold Dance",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Amber Casillas"
+    ],
+    "dancers": [
+      "Bre Burrows",
+      "Tori Gonda",
+      "Annie Krautheim",
+      "Sarah Miller",
+      "Shawn Hondorp",
+      "Amber Casillas"
+    ],
+    "music": [
+      "Rage by Samantha Margret"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "An ensemble declaration of anger as embodied force.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "loveinportofino",
+    "title": "Love in Portofino",
+    "company": "Eleanor Dance Devotion",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Choreography Showing · 2:00-3:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Eleanor Raygorodsky"
+    ],
+    "dancers": [
+      "Eleanor Raygorodsky"
+    ],
+    "music": [
+      "Love in Portofino by Fred Buscaglione"
+    ],
+    "costumes": [
+      "Eleanor Raygorodsky"
+    ],
+    "program_note": "\"Take yourself to Italy, but bring your heart back with you.\"",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "studiesinschmaltz",
+    "title": "Studies in Schmaltz",
+    "company": "Terpsichore Collective",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Showcase · 7:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Peter Sparling"
+    ],
+    "dancers": [
+      "Lydia Di Iorio-Rhoton",
+      "Carly Liegel",
+      "Stephanie Harvey"
+    ],
+    "music": [
+      "Traumerei by Robert Schumann",
+      "Sweet Remembrance by Felix Mendelssohn",
+      "Jazz Encore by Marshall Turkin"
+    ],
+    "costumes": [
+      "Aimee McDonald"
+    ],
+    "program_note": "A choreographic tribute to violinist Hugo Gottesmann and remembered performance culture.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "inthewaves",
+    "title": "In the Waves",
+    "company": "3rd Coast Dance Company",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Showcase · 7:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Julia Schaeffer"
+    ],
+    "dancers": [
+      "Gabby Estes",
+      "Marie Hefley",
+      "Valerie Lowder",
+      "Kira Phillips",
+      "Rene",
+      "Luis Rosillo",
+      "Rachel Walker",
+      "Lauren Willmann"
+    ],
+    "music": [
+      "Zoe Keating"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "An ensemble wave-structure in shared time and momentum.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "plumb",
+    "title": "Plumb",
+    "company": "Nicole Caruana",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Showcase · 7:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Nicole Caruana"
+    ],
+    "dancers": [
+      "Nicole Caruana"
+    ],
+    "music": [
+      "Rachmaninoff Concerto No. 3"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A solo framed as a revelation of balance and worth.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "hermysteriesandmemories",
+    "title": "Her Mysteries and Memories",
+    "company": "Movement Reservoir Dance Company",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Showcase · 7:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Kayla Wiese"
+    ],
+    "dancers": [
+      "Andrew Niedbala",
+      "Dominique Ginn",
+      "Brandon Wolfington",
+      "Lachan Niedbala",
+      "Morgan Bodie"
+    ],
+    "music": [
+      "(S)he Forgets by Terence Ftc."
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "Dedicated to people and families living with Alzheimer's and dementia.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "thevisitors",
+    "title": "The Visitors",
+    "company": "Mixed Creative Arts Studio",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Saturday Showcase · 7:30 PM",
+    "day": "saturday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Kent De Spain",
+      "Leslie Dworkin"
+    ],
+    "dancers": [
+      "Kent De Spain",
+      "Leslie Dworkin"
+    ],
+    "music": [
+      "Philip Glass",
+      "Leonard-Morgan"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A duet encounter work with cinematic emotional tone.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "analienisborn",
+    "title": "An Alien is Born",
+    "company": "Mixed Creative Arts Studio",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Sunday Mixed Bill Showcase · 1:00 PM",
+    "day": "sunday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Heather Friese Banet"
+    ],
+    "dancers": [
+      "Heather Friese Banet"
+    ],
+    "music": [
+      "Abyss by OMO"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "Includes original galaxy painting and asks how we hold space for our inner alien.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "fragmented",
+    "title": "Fragmented",
+    "company": "Mixed Creative Arts Studio",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Sunday Mixed Bill Showcase · 1:00 PM",
+    "day": "sunday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Deanna Stanton"
+    ],
+    "dancers": [
+      "Callum Findlay-White",
+      "Annabelle Gourley",
+      "Keiran Laverentz",
+      "Madisen Acevedo"
+    ],
+    "music": [
+      "Godfrey's Slow Groove",
+      "Fast Djembe Groove",
+      "Power Tension",
+      "Djembe Drum by Demfire Creation"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A percussive ensemble work with layered djembe textures.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "okayalrightoridratherputsunblockonanalligator",
+    "title": "Okay, Alright, (or, I'd Rather Put Sunblock On an Alligator)",
+    "company": "Terpsichore Collective",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Sunday Mixed Bill Showcase · 1:00 PM",
+    "day": "sunday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Aimee McDonald"
+    ],
+    "dancers": [
+      "Amy Cadwallader",
+      "Lydia Di Iorio-Rhoton",
+      "Stephanie Harvey",
+      "Carly Liegel",
+      "Steve Harvey"
+    ],
+    "music": [
+      "Vivaldi Summer (3rd Movement) with vocals by Madeline Harvey"
+    ],
+    "costumes": [
+      "Aimee McDonald"
+    ],
+    "program_note": "A theatrical ensemble work balancing virtuosic structure and playful absurdity.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "bitersarentso",
+    "title": "BITERS ARENT SO",
+    "company": "Terpsichore Collective ChoreoLab Project",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Sunday Mixed Bill Showcase · 1:00 PM",
+    "day": "sunday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Theo Renee"
+    ],
+    "dancers": [
+      "Olga Aristova",
+      "Kelly Clair",
+      "Megan Furman",
+      "Linus Gravel",
+      "Dov Liberatore"
+    ],
+    "music": [
+      "LINE BACK 22 by Saya Gray",
+      "On Your Side by The Last Dinner Party",
+      "Where the Wild Things Are (2009) excerpt"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A jagged response to mania and monstrous embodiment, pulsing between rupture and reabsorption.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "tending",
+    "title": "Tending",
+    "company": "Terpsichore Collective ChoreoLab Project",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Sunday Mixed Bill Showcase · 1:00 PM",
+    "day": "sunday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Lynn Miller"
+    ],
+    "dancers": [
+      "Kari Becker",
+      "Lydia Di Iorio-Rhoton",
+      "Carly Liegel"
+    ],
+    "music": [
+      "Dream Puppy by The Sweet Enoughs"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A trio exploring care as repetition, labor, and devotion.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "theworldwasgray",
+    "title": "The World Was Gray",
+    "company": "Terpsichore Collective ChoreoLab Project",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Sunday Mixed Bill Showcase · 1:00 PM",
+    "day": "sunday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Amy Cadwallader"
+    ],
+    "dancers": [
+      "Mackenzie Kalinowski"
+    ],
+    "music": [
+      "Spirit Voices",
+      "Singing Angels",
+      "Dust in the Wind",
+      "Mother Earth",
+      "Lucifer's Waltz",
+      "Heart of Darkness"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A solo traversing atmospheric shifts from luminous memory to darker terrain.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "murmursofmural",
+    "title": "Murmurs of Mural",
+    "company": "TINGMOTION Dance Project",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Sunday Mixed Bill Showcase · 1:00 PM",
+    "day": "sunday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Tingyu Xie"
+    ],
+    "dancers": [
+      "Tingyu Xie",
+      "Ningyu Wang",
+      "Xiling Zou"
+    ],
+    "music": [
+      "No Man's Land",
+      "Honor of Kings",
+      "HeartStrings (needs review)"
+    ],
+    "costumes": [
+      "Tingyu Xie"
+    ],
+    "program_note": "Inspired by Dunhuang mural aesthetics and spiritual language, reimagined through living movement.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "murk",
+    "title": "Murk",
+    "company": "Terpsichore Collective ChoreoLab Project",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Sunday Mixed Bill Showcase · 1:00 PM",
+    "day": "sunday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Christina Marie Sears"
+    ],
+    "dancers": [
+      "Dov Liberatore",
+      "Apryl Renee Pipe",
+      "Christina Marie Sears"
+    ],
+    "music": [
+      "Babble by Gustavo Bravetti",
+      "Akelarre by Ana Alcaide",
+      "Tahquamenon Falls by Sufjan Stevens"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A surreal exploration of water mythologies and women-water connections.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "secure",
+    "title": "Secure",
+    "company": "Nicole Caruana",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Sunday Mixed Bill Showcase · 1:00 PM",
+    "day": "sunday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Nicole Caruana"
+    ],
+    "dancers": [
+      "Nicole Caruana"
+    ],
+    "music": [
+      "Original composition by Daniel Gowans"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A solo on held tension, release, and emotional sheltering.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  },
+  {
+    "id": "footprintsarelivingmemories",
+    "title": "footprints are living memories",
+    "company": "Terpsichore Collective ChoreoLab Project",
+    "event": "Terpsichore Collective Festival Weekend",
+    "performance_date": "Sunday Mixed Bill Showcase · 1:00 PM",
+    "day": "sunday",
+    "venue": "Riverside Arts Center Theatre",
+    "choreographer": [
+      "Carly Liegel"
+    ],
+    "dancers": [
+      "Stephanie Harvey",
+      "Carly Liegel"
+    ],
+    "music": [
+      "Take a Deep Breath by Alsever Lake",
+      "Picture This by Alsever Lake"
+    ],
+    "costumes": [
+      "needs review"
+    ],
+    "program_note": "A duet meditation on shoreline memory, imprint, and intergenerational presence.",
+    "folder_name": "",
+    "photo_status": "coming_soon",
+    "photos": []
+  }
+]
