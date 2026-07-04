@@ -41,7 +41,7 @@ export default async function PiecePage({
         ) : null}
         <h1 className="mt-2 text-5xl tracking-tight text-zinc-100">{piece.title}</h1>
         {hasRealContent(piece.program_note) ? (
-          <p className="mt-3 max-w-4xl text-zinc-300">{piece.program_note}</p>
+          <p className="mt-3 max-w-4xl whitespace-pre-line text-zinc-300">{piece.program_note}</p>
         ) : null}
         <div className="mt-5 flex flex-wrap gap-3">
           {photos.length > 0 && zipHref ? (
