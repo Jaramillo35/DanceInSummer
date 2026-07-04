@@ -45,6 +45,11 @@ export function getProgram(): DancePiece[] {
   return program;
 }
 
+export function getParticipatingCompanies(): string[] {
+  return [...new Set(program.map((piece) => piece.company).filter((company) => hasRealContent(company)))]
+    .sort((a, b) => a.localeCompare(b));
+}
+
 export function getPiecesForDay(day: DayKey): DancePiece[] {
   return program.filter((piece) => piece.day === day);
 }

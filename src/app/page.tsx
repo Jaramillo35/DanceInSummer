@@ -1,11 +1,27 @@
 import Link from "next/link";
 import { Hero } from "@/components/Hero";
 import { DayNavigation } from "@/components/DayNavigation";
+import { getParticipatingCompanies } from "@/lib/data";
 
 export default function Home(): React.JSX.Element {
+  const companies = getParticipatingCompanies();
+
   return (
     <div className="space-y-8">
       <Hero />
+      <section className="-mx-4 md:-mx-6 bg-white/5 p-7">
+        <h2 className="text-xl text-zinc-100">Participating Dance Companies</h2>
+        <p className="mt-2 text-sm text-zinc-400">
+          With gratitude to all companies and artists participating in this festival.
+        </p>
+        <ul className="mt-5 grid gap-2 text-sm text-zinc-200 sm:grid-cols-2 lg:grid-cols-3">
+          {companies.map((company) => (
+            <li key={company} className="rounded-md bg-black/20 px-3 py-2">
+              {company}
+            </li>
+          ))}
+        </ul>
+      </section>
       <section className="-mx-4 md:-mx-6 bg-white/4 p-7">
         <div className="mb-5 flex flex-wrap items-center justify-between gap-3">
           <div>
