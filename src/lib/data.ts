@@ -34,6 +34,7 @@ const zipDownloadUrls: Record<string, string> = {
   lamentation: "https://drive.google.com/file/d/1eOdRXF0KineTYk1dTKwEhc1X6YMyBtXX/view?usp=drive_link",
   nobody01100011: "https://drive.google.com/file/d/1ckYKtEcQerlTvOXyUWGJhut7ZbtlCXII/view?usp=drive_link",
   reflectionsofher: "https://drive.google.com/file/d/15qH4GI4OWVjq6ijQkPDkKggeKKMkoqbZ/view?usp=drive_link",
+  skeptic: "https://drive.google.com/file/d/1byBnUltNy9mFDp4rdqRBq5ZpcOHLHqU5/view?usp=drive_link",
   songbird: "https://drive.google.com/file/d/143t1xiFJQfR0AXF0Ll6tmV_HlcARpmms/view?usp=drive_link",
   tabletalk: "https://drive.google.com/file/d/1ARiXzdRTQL03W_Ja14n6k-H-buyfNVO9/view?usp=drive_link",
   trashed: "https://drive.google.com/file/d/1Gi84Z3CynYPP5VFk2-lTP1hW7U2RXQzt/view?usp=drive_link",

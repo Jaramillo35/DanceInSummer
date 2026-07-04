@@ -1,11 +1,7 @@
 {
-  "generatedAt": "2026-07-04T04:28:58.763Z",
-  "unmatchedFolders": [
-    "ArtistInfo",
-    "dance-zip-upload"
-  ],
+  "generatedAt": "2026-07-04T16:02:32.151Z",
+  "unmatchedFolders": [],
   "unmatchedProgramPieces": [
-    "Skeptic",
     "Rage",
     "Love in Portofino",
     "Studies in Schmaltz",
@@ -25,9 +21,6 @@
     "footprints are living memories"
   ],
   "warnings": [
-    "No program match found for folder \"ArtistInfo\"",
-    "No program match found for folder \"dance-zip-upload\"",
-    "No photo folder found for piece \"Skeptic\"",
     "No photo folder found for piece \"Rage\"",
     "No photo folder found for piece \"Love in Portofino\"",
     "No photo folder found for piece \"Studies in Schmaltz\"",
