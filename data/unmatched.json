@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-03T05:56:30.131Z",
-  "unmatchedFolders": [],
+  "generatedAt": "2026-07-04T04:28:58.763Z",
+  "unmatchedFolders": [
+    "ArtistInfo",
+    "dance-zip-upload"
+  ],
   "unmatchedProgramPieces": [
-    "Infinite Love",
-    "Songbird",
-    "Cover of Me",
     "Skeptic",
     "Rage",
     "Love in Portofino",
@@ -25,9 +25,8 @@
     "footprints are living memories"
   ],
   "warnings": [
-    "No photo folder found for piece \"Infinite Love\"",
-    "No photo folder found for piece \"Songbird\"",
-    "No photo folder found for piece \"Cover of Me\"",
+    "No program match found for folder \"ArtistInfo\"",
+    "No program match found for folder \"dance-zip-upload\"",
     "No photo folder found for piece \"Skeptic\"",
     "No photo folder found for piece \"Rage\"",
     "No photo folder found for piece \"Love in Portofino\"",

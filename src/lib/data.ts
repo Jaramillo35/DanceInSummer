@@ -22,6 +22,23 @@ const photoMap = new Map(
   (photoIndexData.pieces as PhotoIndexEntry[]).map((entry) => [entry.pieceId, entry]),
 );
 const artistInfoMap = artistInfoData as ArtistInfo;
+const zipDownloadUrls: Record<string, string> = {
+  control: "https://drive.google.com/file/d/1eqRAyh5TNK0S12uKkyMlN0ok6G5PQhkG/view?usp=drive_link",
+  coverofme: "https://drive.google.com/file/d/1tbtIwANU9DHp26C4cOwU-Btuf4vuxWPk/view?usp=drive_link",
+  disparateinseparable: "https://drive.google.com/file/d/13UX6CgdEqB5Fl0OwseMIilISDRkRbJfI/view?usp=drive_link",
+  espinita: "https://drive.google.com/file/d/1gELIfiM9mYoIyioQJ1VlswWNFQJO6OT-/view?usp=drive_link",
+  fallintome: "https://drive.google.com/file/d/1l_-zMB4pbV-7I7NQXvTzsg-RxCwn92zY/view?usp=drive_link",
+  femaletrouble: "https://drive.google.com/file/d/1DWd7h_zAM3vlX9rIjr7nY0oRMbReiv9g/view?usp=drive_link",
+  heighho: "https://drive.google.com/file/d/1Oz5OoReW39-57BOKmsm6yHyeTmkMfS73/view?usp=drive_link",
+  infinitelove: "https://drive.google.com/file/d/1Y1EicrjmhAf1Unm9IYt9KtkkxnYQBVuf/view?usp=drive_link",
+  lamentation: "https://drive.google.com/file/d/1eOdRXF0KineTYk1dTKwEhc1X6YMyBtXX/view?usp=drive_link",
+  nobody01100011: "https://drive.google.com/file/d/1ckYKtEcQerlTvOXyUWGJhut7ZbtlCXII/view?usp=drive_link",
+  reflectionsofher: "https://drive.google.com/file/d/15qH4GI4OWVjq6ijQkPDkKggeKKMkoqbZ/view?usp=drive_link",
+  songbird: "https://drive.google.com/file/d/143t1xiFJQfR0AXF0Ll6tmV_HlcARpmms/view?usp=drive_link",
+  tabletalk: "https://drive.google.com/file/d/1ARiXzdRTQL03W_Ja14n6k-H-buyfNVO9/view?usp=drive_link",
+  trashed: "https://drive.google.com/file/d/1Gi84Z3CynYPP5VFk2-lTP1hW7U2RXQzt/view?usp=drive_link",
+  typewriterlesson: "https://drive.google.com/file/d/1ab9mvORQ4WAYJrnCsY7Pt-PuSj4jBUpX/view?usp=drive_link",
+};
 
 export function getProgram(): DancePiece[] {
   return program;
@@ -45,6 +62,10 @@ export function getPiecePhotos(pieceId: string): PhotoIndexEntry["photos"] {
 
 export function getArtistInfo(pieceId: string): ArtistInfoEntry | undefined {
   return artistInfoMap[pieceId];
+}
+
+export function getZipDownloadUrl(pieceId: string): string | undefined {
+  return zipDownloadUrls[pieceId];
 }
 
 export function hasRealContent(value?: string): boolean {

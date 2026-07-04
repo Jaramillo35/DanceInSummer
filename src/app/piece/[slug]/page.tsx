@@ -2,7 +2,14 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Gallery } from "@/components/Gallery";
 import { MetadataPanel } from "@/components/MetadataPanel";
-import { getArtistInfo, getPieceBySlug, getPiecePhotos, getProgram, hasRealContent } from "@/lib/data";
+import {
+  getArtistInfo,
+  getPieceBySlug,
+  getPiecePhotos,
+  getProgram,
+  getZipDownloadUrl,
+  hasRealContent,
+} from "@/lib/data";
 
 export function generateStaticParams(): Array<{ slug: string }> {
   return getProgram().map((piece) => ({ slug: piece.id }));
@@ -20,8 +27,7 @@ export default async function PiecePage({
   }
   const artistInfo = getArtistInfo(piece.id);
   const photos = getPiecePhotos(piece.id);
-  const zipBaseUrl = process.env.NEXT_PUBLIC_ZIP_BASE_URL?.replace(/\/$/, "");
-  const zipHref = zipBaseUrl ? `${zipBaseUrl}/${piece.id}.zip` : null;
+  const zipHref = getZipDownloadUrl(piece.id);
   const allPieces = getProgram();
   const index = allPieces.findIndex((entry) => entry.id === piece.id);
   const prevPiece = allPieces[index - 1];
@@ -41,7 +47,8 @@ export default async function PiecePage({
           {photos.length > 0 && zipHref ? (
             <a
               href={zipHref}
-              download
+              target="_blank"
+              rel="noreferrer"
               className="rounded-full border border-amber-200/40 bg-amber-200/10 px-4 py-2 text-sm text-amber-100 transition hover:bg-amber-200/20"
             >
               Download photos ZIP
