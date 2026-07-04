@@ -5,6 +5,16 @@ import { guessBestPieceMatch, normalizeTitle } from "@/lib/fuzzyMatch";
 import type { DancePiece, PhotoIndex, UnmatchedData } from "@/lib/types";
 
 const IMAGE_EXT = /\.(jpe?g|png|webp|tiff?)$/i;
+const EXCLUDED_FOLDERS = new Set([
+  "dance_collage",
+  "site",
+  ".git",
+  "node_modules",
+  ".ds_store",
+  "artistinfo",
+  "dance-zip-upload",
+]);
+const EXCLUDED_PIECE_IDS = new Set(["artistinfo", "dancezipupload"]);
 
 type IndexOptions = {
   rootDir: string;
@@ -14,13 +24,7 @@ type IndexOptions = {
 
 function isDanceFolder(name: string): boolean {
   const lower = name.toLowerCase();
-  return ![
-    "dance_collage",
-    "site",
-    ".git",
-    "node_modules",
-    ".DS_Store",
-  ].includes(name) && !lower.includes("program");
+  return !EXCLUDED_FOLDERS.has(lower) && !lower.includes("program");
 }
 
 function dayStatus(day: DancePiece["day"], hasPhotos: boolean): DancePiece["photo_status"] {
@@ -44,6 +48,10 @@ export async function indexPhotos(
   program: DancePiece[],
   options: IndexOptions,
 ): Promise<{ program: DancePiece[]; photoIndex: PhotoIndex; unmatched: UnmatchedData }> {
+  const sanitizedProgram = program.filter((piece) => !EXCLUDED_PIECE_IDS.has(piece.id));
+  program.length = 0;
+  program.push(...sanitizedProgram);
+
   const entries = await fs.readdir(options.rootDir, { withFileTypes: true });
   const danceFolders = entries
     .filter((entry) => entry.isDirectory() && isDanceFolder(entry.name))
