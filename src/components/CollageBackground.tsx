@@ -3,8 +3,14 @@
 import { motion, useReducedMotion } from "framer-motion";
 import { useRef, useSyncExternalStore } from "react";
 
+export type CollagePhoto = {
+  src: string;
+  width: number;
+  height: number;
+};
+
 type CollageBackgroundProps = {
-  piecePhotoPools: string[][];
+  piecePhotoPools: CollagePhoto[][];
 };
 
 function pickRandom<T>(arr: T[]): T {
@@ -20,11 +26,26 @@ function shuffle<T>(arr: T[]): T[] {
   return a;
 }
 
-const EMPTY: string[] = [];
+const EMPTY: CollagePhoto[] = [];
+
+function getTileSpans(photo: CollagePhoto): { colSpan: number; rowSpan: number } {
+  const aspectRatio = photo.width / photo.height;
+
+  if (aspectRatio >= 1.45) {
+    return { colSpan: 2, rowSpan: 1 };
+  }
+  if (aspectRatio <= 0.67) {
+    return { colSpan: 1, rowSpan: 3 };
+  }
+  if (aspectRatio <= 0.85) {
+    return { colSpan: 1, rowSpan: 2 };
+  }
+  return { colSpan: 1, rowSpan: 1 };
+}
 
 export function CollageBackground({ piecePhotoPools }: CollageBackgroundProps): React.JSX.Element {
   const reducedMotion = useReducedMotion();
-  const cachedRef = useRef<string[] | null>(null);
+  const cachedRef = useRef<CollagePhoto[] | null>(null);
 
   const collagePhotos = useSyncExternalStore(
     () => () => {},
@@ -39,35 +60,28 @@ export function CollageBackground({ piecePhotoPools }: CollageBackgroundProps): 
 
   if (collagePhotos.length === 0) return <></>;
 
-  const cols = 4;
-  const total = collagePhotos.length;
-  const remainder = total % cols;
-  const lastRowStart = total - remainder;
-
   return (
-    <div
-      className="fixed inset-0 -z-10 grid grid-cols-4"
-      style={{ gridTemplateRows: `repeat(${Math.ceil(total / cols)}, 1fr)` }}
-    >
-      {collagePhotos.map((src, i) => {
-        const isLastRow = remainder > 0 && i >= lastRowStart;
-        let colSpan = 1;
-        if (isLastRow) {
-          const posInRow = i - lastRowStart;
-          const baseSpan = Math.floor(cols / remainder);
-          const extra = cols % remainder;
-          colSpan = baseSpan + (posInRow < extra ? 1 : 0);
-        }
+    <div className="fixed inset-0 -z-10 grid auto-rows-[14vh] grid-cols-2 gap-0 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+      {collagePhotos.map((photo, i) => {
+        const { colSpan, rowSpan } = getTileSpans(photo);
         return (
           <motion.div
-            key={src}
-            initial={{ opacity: 0 }}
-            animate={reducedMotion ? { opacity: 0.5 } : { opacity: [0, 0.5] }}
-            transition={{ duration: 1.4, delay: i * 0.05, ease: "easeOut" }}
+            key={`${photo.src}-${i}`}
+            initial={{ opacity: 0, scale: 1.08 }}
+            animate={
+              reducedMotion
+                ? { opacity: 0.5, scale: 1 }
+                : {
+                    opacity: [0, 0.56],
+                    scale: [1.08, 1],
+                  }
+            }
+            transition={{ duration: 1.2, delay: i * 0.04, ease: "easeOut" }}
             className="bg-cover bg-center"
             style={{
-              backgroundImage: `url(${src})`,
+              backgroundImage: `url(${photo.src})`,
               gridColumn: colSpan > 1 ? `span ${colSpan}` : undefined,
+              gridRow: rowSpan > 1 ? `span ${rowSpan}` : undefined,
             }}
           />
         );

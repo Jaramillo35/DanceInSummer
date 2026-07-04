@@ -29,7 +29,13 @@ export default function RootLayout({
 }>) {
   const piecePhotoPools = (photoIndexData.pieces as PhotoIndexEntry[])
     .filter((p) => p.photos.length > 0)
-    .map((p) => p.photos.map((photo) => sitePath(photo.src)));
+    .map((p) =>
+      p.photos.map((photo) => ({
+        src: sitePath(photo.src),
+        width: photo.width,
+        height: photo.height,
+      })),
+    );
 
   return (
     <html
