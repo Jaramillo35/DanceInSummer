@@ -77,7 +77,7 @@ export function CollageBackground({ piecePhotoPools }: CollageBackgroundProps): 
                   }
             }
             transition={{ duration: 1.2, delay: i * 0.04, ease: "easeOut" }}
-            className="bg-cover bg-center"
+            className="bg-contain bg-center bg-no-repeat"
             style={{
               backgroundImage: `url(${photo.src})`,
               gridColumn: colSpan > 1 ? `span ${colSpan}` : undefined,
