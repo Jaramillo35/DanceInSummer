@@ -61,7 +61,7 @@ export function CollageBackground({ piecePhotoPools }: CollageBackgroundProps): 
   if (collagePhotos.length === 0) return <></>;
 
   return (
-    <div className="fixed inset-0 -z-10 grid auto-rows-[14vh] grid-cols-2 gap-0 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
+    <div className="fixed inset-0 -z-10 grid auto-rows-[14vh] grid-flow-dense grid-cols-2 gap-0 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
       {collagePhotos.map((photo, i) => {
         const { colSpan, rowSpan } = getTileSpans(photo);
         return (
@@ -77,7 +77,7 @@ export function CollageBackground({ piecePhotoPools }: CollageBackgroundProps): 
                   }
             }
             transition={{ duration: 1.2, delay: i * 0.04, ease: "easeOut" }}
-            className="bg-contain bg-center bg-no-repeat"
+            className="bg-cover bg-center"
             style={{
               backgroundImage: `url(${photo.src})`,
               gridColumn: colSpan > 1 ? `span ${colSpan}` : undefined,
