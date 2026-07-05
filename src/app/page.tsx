@@ -8,7 +8,7 @@ export default function Home(): React.JSX.Element {
 
   return (
     <div className="space-y-8">
-      <Hero />
+      <Hero companies={companies} />
       <section className="-mx-4 md:-mx-6 bg-white/5 p-7">
         <h2 className="text-xl text-zinc-100">Participating Dance Companies</h2>
         <p className="mt-2 text-sm text-zinc-400">
