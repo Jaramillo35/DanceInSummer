@@ -121,7 +121,23 @@ export async function indexPhotos(
       const file = files[i];
       const source = path.join(folderPath, file);
       const target = path.join(pieceOutputDir, `${String(i + 1).padStart(3, "0")}.jpg`);
-      const optimized = await buildOptimizedImage(source, target);
+      let optimized: Awaited<ReturnType<typeof buildOptimizedImage>>;
+      try {
+        await fs.access(target);
+        const meta = await import("sharp").then((s) => s.default(target).metadata());
+        const blurBuffer = await import("sharp").then((s) =>
+          s.default(target).resize({ width: 20, withoutEnlargement: true }).jpeg({ quality: 50 }).toBuffer()
+        );
+        const relativePath = target.split("/public")[1] ?? target;
+        optimized = {
+          src: relativePath.replace(/\\/g, "/"),
+          width: meta.width ?? 0,
+          height: meta.height ?? 0,
+          blurDataUrl: `data:image/jpeg;base64,${blurBuffer.toString("base64")}`,
+        };
+      } catch {
+        optimized = await buildOptimizedImage(source, target);
+      }
       photos.push({
         ...optimized,
         alt: `${piece.title} by ${piece.company || "dance ensemble"} - frame ${i + 1}`,
@@ -135,7 +151,17 @@ export async function indexPhotos(
     if (files.length > 0) {
       const sourcePaths = files.map((f) => path.join(folderPath, f));
       const zipPath = path.join(downloadsRoot, `${piece.id}.zip`);
-      await buildPieceZip(sourcePaths, zipPath, folderName);
+      let needsZip = true;
+      try {
+        const zipStat = await fs.stat(zipPath);
+        const newestSource = await Promise.all(sourcePaths.map((p) => fs.stat(p))).then(
+          (stats) => Math.max(...stats.map((s) => s.mtimeMs))
+        );
+        needsZip = newestSource > zipStat.mtimeMs;
+      } catch { /* zip doesn't exist yet */ }
+      if (needsZip) {
+        await buildPieceZip(sourcePaths, zipPath, folderName);
+      }
     }
 
     photoIndexPieces.push({

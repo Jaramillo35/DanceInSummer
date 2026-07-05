@@ -14,8 +14,7 @@ export default function EventPage(): React.JSX.Element {
         <p className="text-xs uppercase tracking-[0.2em] text-zinc-400">Event Overview</p>
         <h1 className="mt-3 text-4xl font-semibold text-zinc-50">Dancing in Summer</h1>
         <p className="mt-3 max-w-3xl text-zinc-300">
-          Navigate by day or by piece through a movement archive shaped as an editorial
-          performance document.
+          Navigate by day or by piece through the full festival archive.
         </p>
       </section>
       <DayNavigation />
