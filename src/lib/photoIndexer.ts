@@ -12,9 +12,10 @@ const EXCLUDED_FOLDERS = new Set([
   "node_modules",
   ".ds_store",
   "artistinfo",
+  "samples",
   "dance-zip-upload",
 ]);
-const EXCLUDED_PIECE_IDS = new Set(["artistinfo", "dancezipupload"]);
+const EXCLUDED_PIECE_IDS = new Set(["artistinfo", "dancezipupload", "samples"]);
 
 type IndexOptions = {
   rootDir: string;
