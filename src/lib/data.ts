@@ -23,6 +23,7 @@ const photoMap = new Map(
 );
 const artistInfoMap = artistInfoData as ArtistInfo;
 const zipDownloadUrls: Record<string, string> = {
+  analienisborn: "https://drive.google.com/file/d/1Kk1IEq4wE8wf6f0OAB0zBfrqiuq6sKKt/view?usp=drive_link",
   control: "https://drive.google.com/file/d/1eqRAyh5TNK0S12uKkyMlN0ok6G5PQhkG/view?usp=drive_link",
   coverofme: "https://drive.google.com/file/d/1tbtIwANU9DHp26C4cOwU-Btuf4vuxWPk/view?usp=drive_link",
   disparateinseparable: "https://drive.google.com/file/d/13UX6CgdEqB5Fl0OwseMIilISDRkRbJfI/view?usp=drive_link",
