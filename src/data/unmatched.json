@@ -1,18 +1,6 @@
 {
-  "generatedAt": "2026-07-13T04:00:00.479Z",
+  "generatedAt": "2026-07-16T00:26:35.985Z",
   "unmatchedFolders": [],
-  "unmatchedProgramPieces": [
-    "The World Was Gray",
-    "Murmurs of Mural",
-    "Murk",
-    "Secure",
-    "footprints are living memories"
-  ],
-  "warnings": [
-    "No photo folder found for piece \"The World Was Gray\"",
-    "No photo folder found for piece \"Murmurs of Mural\"",
-    "No photo folder found for piece \"Murk\"",
-    "No photo folder found for piece \"Secure\"",
-    "No photo folder found for piece \"footprints are living memories\""
-  ]
+  "unmatchedProgramPieces": [],
+  "warnings": []
 }
